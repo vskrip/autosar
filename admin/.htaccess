@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Для продолжения необходима авторизация"
+AuthUserFile /home/4169/s4571/public_html/admin/.htpasswd
+Require valid-user
